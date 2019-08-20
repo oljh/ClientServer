@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClientServer.iml" filepath="$PROJECT_DIR$/ClientServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ClientServerSocket.iml" filepath="$PROJECT_DIR$/.idea/ClientServerSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ClientServerSocket.iml" filepath="$PROJECT_DIR$/.idea/ClientServerSocket.iml" />
     </modules>
   </component>
 </project>
